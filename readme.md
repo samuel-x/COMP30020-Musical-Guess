@@ -1,6 +1,7 @@
 Musical Guess
 =============
-This was the first project for Declarative Programming COMP30020 at The University of Melbourne Semester 2 2018. 
+# Project 1 for Declarative Programming COMP90048/COMP30020
+This was the first project for Declarative Programming at The University of Melbourne Semester 2 2018. 
 It was probably one of my favourite assignments; working with Haskell ended up being really intellectually stimulating and interesting.
 
 Also, take a look at the [helper program](https://github.com/samuel-x/COMP30020-helper) which was used to iterate through all possible cases
