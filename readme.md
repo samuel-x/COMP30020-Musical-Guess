@@ -1,6 +1,6 @@
 Musical Guess
 =============
-# Project 1 for Declarative Programming COMP90048/COMP30020
+##### Project 1 for Declarative Programming COMP90048/COMP30020
 This was the first project for Declarative Programming at The University of Melbourne Semester 2 2018. 
 It was probably one of my favourite assignments; working with Haskell ended up being really intellectually stimulating and interesting.
 
